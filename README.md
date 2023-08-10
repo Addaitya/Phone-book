@@ -1,8 +1,30 @@
-# React + Vite
+# Phone-book
+Phone-book add contact info of people
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## System Requirements
+Following should be installed on the system:
+1. **Node**
+2. **Git**
 
-Currently, two official plugins are available:
+## How to setup
+Clone the repo by typing following in terminal:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+git clone https://github.com/Addaitya/Phone-book.git 
+
+```
+
+Then change directory to _Phone-book_
+```
+cd Phone-book
+```
+
+Install dependencies
+```
+npm install
+```
+
+To run the project
+```
+npm start
+```
